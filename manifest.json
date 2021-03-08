@@ -1,0 +1,15 @@
+{
+  "short_name": "iNozura Portfolio",
+  "name": "Novandra Zulfi Ramadhan",
+  "icons": [
+    {
+      "src": "faith.png",
+      "sizes": "128x128",
+      "type": "image"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
